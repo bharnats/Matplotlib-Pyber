@@ -1,2 +1,2 @@
 # Matplotlib-Pyber
-create a bubble plot for the company's complete record set of rides
+Analyse the Ride Sharing Data for a Uber company and offer data backed guidance on new oppurtunities for market differentiation.
