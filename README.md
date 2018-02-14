@@ -11,7 +11,7 @@ Analyse the Ride Sharing Data for a Uber company and offer data backed guidance 
 * There may be a strategic opportunity here to boost driver counts in these regions to enhance market share.
 
 ### Background:
-The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, I decided to join a fledgling ride sharing company and act as Chief Data Strategist for the company.
+The ride sharing bonanza continues! 
 The company's complete recordset of rides contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
 The objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_chart) that showcases the relationship between four key variables:
