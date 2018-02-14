@@ -32,7 +32,7 @@ In addition, the following three pie charts are also produced:
 ![Pie_Plot](images/drivers_city_type.PNG)
 
 
-### libraries and tools used:
+### Libraries and tools used:
 * Pandas Library and the Jupyter Notebook.
 * Matplotlib for all plotting.
 * Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing the plots and pie charts.
