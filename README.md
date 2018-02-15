@@ -1,6 +1,6 @@
 ## Ride Sharing Data- Analysis
 ### Objective:
-Analyse the Ride Sharing Data for a Uber company and offer data backed guidance on new oppurtunities for market differentiation.
+Analyse the Ride Sharing Data for a Uber company and offer data backed guidance on new opportunities for market differentiation.
 
 ### Observable Trends:
  #### Analysis
